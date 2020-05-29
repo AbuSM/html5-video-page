@@ -1,0 +1,49 @@
+.table{
+    font-size: 15px !important;
+}
+
+.table tr th{
+    padding: 10px !important;
+}
+
+.calc_count{
+    margin: 5px !important;
+    padding: 0 !important;
+    height: 20px !important;
+    width: 25px !important;
+}
+
+.custom_font{
+    font-family: 'Arimo', sans-serif !important;
+    font-size: 110px !important;
+}
+
+.exchange_title{
+    width: 100% !important;
+    height: 70px;
+
+    background-color: #0a6aa1 !important;
+}
+
+.exchange_second_title{
+    padding: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.table_valign th{
+    vertical-align:middle !important;
+}
+
+.text_logo{
+    width:100%;
+}
+
+@media (max-width: 600px) {
+    .text_logo{
+        width:200px;
+    }
+    .img_logo{
+        width:80px;
+    }
+}
